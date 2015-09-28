@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="15">
+      <Unit0>
+        <Filename Value="todo2fpc.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="19" Y="9"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="E:\xe5\mormot\SynZip.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="1225"/>
+        <CursorPos Y="1245"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="ToDoAbstract.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="247"/>
+        <CursorPos X="40" Y="270"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="Todo_Mormot_Zip.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="72"/>
+        <CursorPos Y="84"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="AbstractTodoMvc.pas"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="66"/>
+        <CursorPos X="15" Y="78"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="\\Toni1sobre\e\d2009\opensource\AbstractTodoMvc.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="8"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="ToDoNanoX.pas"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="489"/>
+        <CursorPos X="15" Y="501"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="E:\xe5\mormot\SynCommons.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19225"/>
+        <CursorPos X="34" Y="19237"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="ToDo_Angular_Filemanager.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="310"/>
+        <CursorPos X="3" Y="323"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="ToDo_Mormot_Server.pas"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="64"/>
+        <CursorPos X="28" Y="86"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="E:\xe5\mormot\SynCrtSock.pas"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="2770"/>
+        <CursorPos X="26" Y="2777"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="79"/>
+        <CursorPos X="11" Y="87"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="ImplementTodoMVC.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="280"/>
+        <CursorPos X="18" Y="290"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="TodoZip.pas"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="162"/>
+        <CursorPos X="36" Y="176"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="1721"/>
+        <CursorPos X="16" Y="1732"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit14>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="ImplementTodoMVC.pas"/>
+        <Caret Line="293" TopLine="288"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ImplementTodoMVC.pas"/>
+        <Caret Line="72" Column="3" TopLine="66"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ToDoAbstract.pas"/>
+        <Caret Line="122" Column="23" TopLine="110"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ToDoAbstract.pas"/>
+        <Caret Line="164" Column="23" TopLine="144"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ToDoAbstract.pas"/>
+        <Caret Line="165" Column="22" TopLine="145"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ToDoAbstract.pas"/>
+        <Caret Line="224" Column="14" TopLine="204"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ToDoAbstract.pas"/>
+        <Caret Line="270" Column="40" TopLine="247"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ImplementTodoMVC.pas"/>
+        <Caret Line="114" TopLine="102"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ImplementTodoMVC.pas"/>
+        <Caret Line="115" TopLine="102"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ImplementTodoMVC.pas"/>
+        <Caret Line="116" TopLine="102"/>
+      </Position10>
+      <Position11>
+        <Filename Value="ImplementTodoMVC.pas"/>
+        <Caret Line="388" TopLine="376"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ImplementTodoMVC.pas"/>
+        <Caret Line="389" TopLine="376"/>
+      </Position12>
+      <Position13>
+        <Filename Value="ImplementTodoMVC.pas"/>
+        <Caret Line="294" TopLine="282"/>
+      </Position13>
+      <Position14>
+        <Filename Value="ToDo_Mormot_Server.pas"/>
+        <Caret Line="86" Column="28" TopLine="64"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ImplementTodoMVC.pas"/>
+        <Caret Line="61" Column="15" TopLine="49"/>
+      </Position15>
+      <Position16>
+        <Filename Value="TodoZip.pas"/>
+        <Caret Line="176" Column="36" TopLine="162"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ImplementTodoMVC.pas"/>
+        <Caret Line="286" Column="24" TopLine="281"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ToDo_Angular_Filemanager.pas"/>
+        <Caret Line="11" Column="53"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ToDo_Angular_Filemanager.pas"/>
+        <Caret Line="213" Column="5" TopLine="201"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ToDoNanoX.pas"/>
+        <Caret Line="239" Column="6" TopLine="232"/>
+      </Position20>
+      <Position21>
+        <Filename Value="ToDoNanoX.pas"/>
+        <Caret Line="666" TopLine="642"/>
+      </Position21>
+      <Position22>
+        <Filename Value="ToDoNanoX.pas"/>
+        <Caret Line="76" Column="62" TopLine="58"/>
+      </Position22>
+      <Position23>
+        <Filename Value="ToDoNanoX.pas"/>
+        <Caret Line="440" Column="24" TopLine="428"/>
+      </Position23>
+      <Position24>
+        <Filename Value="ToDoNanoX.pas"/>
+        <Caret Line="461" Column="16" TopLine="449"/>
+      </Position24>
+      <Position25>
+        <Filename Value="ToDoNanoX.pas"/>
+        <Caret Line="351" Column="40" TopLine="339"/>
+      </Position25>
+      <Position26>
+        <Filename Value="ToDoNanoX.pas"/>
+        <Caret Line="356" Column="15" TopLine="339"/>
+      </Position26>
+      <Position27>
+        <Filename Value="ToDo_Angular_Filemanager.pas"/>
+        <Caret Line="324" Column="37" TopLine="309"/>
+      </Position27>
+      <Position28>
+        <Filename Value="ToDo_Angular_Filemanager.pas"/>
+        <Caret Line="351" Column="21" TopLine="342"/>
+      </Position28>
+      <Position29>
+        <Filename Value="ToDo_Angular_Filemanager.pas"/>
+        <Caret Line="295" Column="31" TopLine="283"/>
+      </Position29>
+      <Position30>
+        <Filename Value="ToDo_Angular_Filemanager.pas"/>
+        <Caret Line="323" Column="3" TopLine="310"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="9">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ToDo_Mormot_Server.pas"/>
+        <Line Value="84"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="Todo_Mormot_Zip.pas"/>
+        <Line Value="144"/>
+      </Item2>
+      <Item3>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ImplementTodoMVC.pas"/>
+        <Line Value="128"/>
+      </Item3>
+      <Item4>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ImplementTodoMVC.pas"/>
+        <Line Value="126"/>
+      </Item4>
+      <Item5>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ImplementTodoMVC.pas"/>
+        <Line Value="130"/>
+      </Item5>
+      <Item6>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ImplementTodoMVC.pas"/>
+        <Line Value="292"/>
+      </Item6>
+      <Item7>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ToDoAbstract.pas"/>
+        <Line Value="269"/>
+      </Item7>
+      <Item8>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ToDoAbstract.pas"/>
+        <Line Value="270"/>
+      </Item8>
+      <Item9>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ImplementTodoMVC.pas"/>
+        <Line Value="113"/>
+      </Item9>
+    </BreakPoints>
+    <Watches Count="1"/>
+  </Debugging>
+</CONFIG>
